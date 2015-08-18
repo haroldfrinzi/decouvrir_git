@@ -1,1 +1,4 @@
-En fait il me faut un deuxième fichier car je ne sais pas encore utiliser les branches et j'ai besoin de faire des essais de manière séparée.
+En fait il me faut un deuxième fichier car je ne sais pas encore utiliser les branches 
+et j'ai besoin de faire des essais de manière séparée.
+
+L'idée sympa serait d'avoir une personne qui me corrige mon exercice.
